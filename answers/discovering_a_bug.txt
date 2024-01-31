@@ -1,0 +1,31 @@
+Prompt
+~~~~~~
+
+Suppose we discover a bug with our algorithm and investors for two deals had incorrect
+allocations. This means that some of the investors ended up investing more than they were allowed to
+while others invested less than they were allowed to. One of deals happened two years ago and the
+other one happened two weeks ago. Please describe, in detail, how would you go about correcting this
+issue and how would you communicate this to the affected customers.
+
+Response
+~~~~~~~~
+
+Correcting the Issue
+
+First, we would need to conduct a thorough investigation of the affected deals to understand the extent of the error. We'd need to identify which investors were over-allocated or under-allocated and by how much. Then, fix the bug in the allocation algorithm, implement rigorous testing to prevent similar issues in the future, and re-run the allocation process for both deals with the corrected algorithm to determine the accurate allocations. Working with legal and senior leadership, we could consider adjusting future distributions for those affected or offering credits to balance the over-allocations and compensate the under-allocated investors. Another option could be direct compensation.
+
+Communicating with Customers
+
+Dear [Investor Name],
+
+I am reaching out to you with an important update regarding your investment in [Deal Name] which took place on [Date].
+
+Recently, we discovered a discrepancy in our investment allocation process that affected the [Deal Name]. Upon a thorough review, we found that this unintentionally resulted in [description of the impact for this investor].
+
+We understand that this news may be concerning, and we want to assure you that we are fully committed to rectifying this situation. [Detail the specific steps that were decided on to correct the allocations].
+
+For the recent deal that occurred on [Date], we are [explain the financial adjustments or compensations]. Regarding the deal from two years ago, given the time that has elapsed, we are exploring [detail feasible compensations or credits for future use].
+
+We deeply apologize for any inconvenience this may have caused and are taking every measure to ensure accuracy and fairness in our processes moving forward. Please feel free to reach out to us at [contact information] if you would like to discuss this further.
+
+Thank you for your understanding and continued support.

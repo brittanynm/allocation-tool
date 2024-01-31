@@ -1,0 +1,35 @@
+Prompt
+~~~~~~
+
+An angry investor sent us a note about how they keep getting squeezed down to $25K per deal even
+though their requested amount is $100K. Underneath the hood, this was because there's limited
+allocation (low supply) and a high volume of investors looking to invest (high demand). How should
+we communicate this to an investor in a way that minimizes the damage to our relationship with
+the investor?
+
+In addition, can you think of a better way we could change the proration basis logic so that
+this could potentially happen less often?
+
+Response
+~~~~~~~~
+
+Hello [Investor Name],
+
+I hope this message finds you well.
+
+We understand that you had requested an investment amount of $100K for this particular deal. Due to exceptionally high demand from our investor community and a limited allocation available for this opportunity, we have had to prorate investments to accommodate as many of our valued investors as possible. This means that the allocation for each investor, including yourself, was adjusted to align with the available funds.
+
+Please know that our primary aim in these situations is to ensure fairness and maximize the opportunity for all interested investors. While we strive to meet individual investment requests, the overwhelming interest in certain deals can sometimes limit our ability to do so.
+
+Looking forward, we are continually working on securing a broader range of exciting opportunities to better meet the investment goals of our community.
+
+If you have any further concerns or would like to discuss this in more detail, please don't hesitate to reach out. We are always open to feedback and here to assist in any way we can.
+
+--
+I can think of ways we could change the proration logic to have this happen less often but there would be tradeoffs to consider. Having a discussion to understand the full context would be helpful to determine if any of the following are truly "better".
+
+- Allocate on a first-come, first-served basis until the fund is fully allocated. This would be transparent and straightforward but may favor faster-responding investors.
+
+- Implement a rotational system where investors who were prorated heavily in previous rounds get priority in subsequent ones. This ensures a more equitable distribution over time, although it would be more complex to manage.
+
+- Add inputs to the formula with various weights depending on what we value: frequency of investment, relationship duration with AngelList, etc. It increases complexity but allows for a more nuanced approach.
